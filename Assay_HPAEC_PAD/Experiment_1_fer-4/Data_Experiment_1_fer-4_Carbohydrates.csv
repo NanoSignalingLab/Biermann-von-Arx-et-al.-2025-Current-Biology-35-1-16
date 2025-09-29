@@ -1,0 +1,61 @@
+Genotype;Replicate;Sugar;Sugar_amount
+Col;1;Arabinose;25.09194743
+Col;2;Arabinose;25.92161257
+Col;3;Arabinose;30.06003607
+Col;4;Arabinose;33.84038263
+Col;5;Arabinose;30.6066213
+fer;1;Arabinose;50.21121245
+fer;2;Arabinose;55.59291402
+fer;3;Arabinose;51.6317018
+fer;4;Arabinose;57.11639103
+fer;5;Arabinose;52.94535542
+Col;1;Galactose;46.62104293
+Col;2;Galactose;47.87895124
+Col;3;Galactose;55.60786203
+Col;4;Galactose;56.08599158
+Col;5;Galactose;62.96366334
+fer;1;Galactose;51.16660549
+fer;2;Galactose;57.8327565
+fer;3;Galactose;55.17052626
+fer;4;Galactose;58.27877966
+fer;5;Galactose;57.36474669
+Col;1;Glucose;36.75670716
+Col;2;Glucose;36.76059518
+Col;3;Glucose;44.63819215
+Col;4;Glucose;39.9434985
+Col;5;Glucose;55.2927019
+fer;1;Glucose;53.37462498
+fer;2;Glucose;63.69500172
+fer;3;Glucose;58.60421077
+fer;4;Glucose;67.66894483
+fer;5;Glucose;70.1303243
+Col;1;Xylose;16.98857827
+Col;2;Xylose;18.12391056
+Col;3;Xylose;21.16700834
+Col;4;Xylose;24.06660752
+Col;5;Xylose;20.74763395
+fer;1;Xylose;21.98819409
+fer;2;Xylose;26.93383901
+fer;3;Xylose;23.35703999
+fer;4;Xylose;24.63495605
+fer;5;Xylose;23.2614863
+Col;1;Galacturonic Acid;66.74674206
+Col;2;Galacturonic Acid;67.61213862
+Col;3;Galacturonic Acid;76.53147266
+Col;4;Galacturonic Acid;88.48432218
+Col;5;Galacturonic Acid;76.16138957
+fer;1;Galacturonic Acid;68.42597477
+fer;2;Galacturonic Acid;66.9214466
+fer;3;Galacturonic Acid;66.71535104
+fer;4;Galacturonic Acid;68.95633674
+fer;5;Galacturonic Acid;64.58049816
+Col;1;Cellulose;105.243038
+Col;2;Cellulose;100.9721072
+Col;3;Cellulose;114.8586909
+Col;4;Cellulose;92.86966006
+Col;5;Cellulose;91.74070253
+fer;1;Cellulose;92.70728003
+fer;2;Cellulose;66.19278388
+fer;3;Cellulose;77.66059123
+fer;4;Cellulose;63.26447982
+fer;5;Cellulose;78.42969829
